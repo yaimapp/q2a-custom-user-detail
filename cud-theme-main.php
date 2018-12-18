@@ -145,7 +145,8 @@ class cud_theme_main
             'questions' => '',
             'answers' => '',
             'blogs' => '',
-            'favorites' => ''
+            'favorites' => '',
+            'blog-favorites' => ''
         );
         $active_tab[$action] = 'is-active';
         return $active_tab;
